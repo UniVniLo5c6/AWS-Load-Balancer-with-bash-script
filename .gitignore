@@ -1,0 +1,21 @@
+# AWS credentials and private keys
+*.pem
+.aws/
+.env
+.env.*
+!.env.example
+credentials
+
+# Generated deployment state
+state/
+*.tfstate
+*.tfstate.*
+
+# Logs and temporary files
+*.log
+*.tmp
+__pycache__/
+
+# Local editor files
+.vscode/
+.idea/
