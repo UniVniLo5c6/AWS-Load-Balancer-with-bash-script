@@ -2,7 +2,7 @@
 
 ## 1. Assignment Overview
 
-Based on the previous lab assignment, students are required to develop Bash Shell scripts and use the AWS CLI to deploy, configure, and manage a load balancing system consisting of virtual machines.
+Requirement is about developing Bash Shell scripts and use the AWS CLI to deploy, configure, and manage a load balancing system consisting of virtual machines.
 
 The system must include:
 - One virtual machine acting as the Load Balancer.
